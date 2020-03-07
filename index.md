@@ -16,5 +16,7 @@
 </table>
 
 # Bio
-PhD, School of computer science and engineering, Nanjing University of Technology(2008-2015)
+* PhD,  Nanjing University of Technology(2008-2015)  
+* Bachelor， Nanjing University of Technology(2004-2008)  
 # Research Interests
+* Machine learning, Object tracking, Anomaly detection
