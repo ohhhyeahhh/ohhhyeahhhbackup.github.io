@@ -1,4 +1,3 @@
-% # Guo Dongyan
 
 <table border="0">
   <tr>
