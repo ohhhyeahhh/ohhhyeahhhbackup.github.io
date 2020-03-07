@@ -10,7 +10,7 @@
       <p><b>Email: guodongyan@zjut.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="src/img.jpg" width="100%">
+      <img src="src/timg.jpg" width="100%">
     </td>
   </tr>
 </table>
