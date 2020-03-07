@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+
+h1 {
+ 
+display: none;
+ 
+}
