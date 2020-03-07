@@ -1,14 +1,12 @@
 # ohhhyeahhh.github.io
- my page
 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Guo Dongyan</h1>
+      <p><b>College Of Computer Science & Technology, Zhejiang University of Technology</b></p>
+      <p><b>Email: guodongyan@zjut.edu.cn</b></p>
+      <p><b>No.288 Liuhe Road, Hangzhou, China</b></p>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
